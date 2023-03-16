@@ -18,6 +18,8 @@
 
 - ![image](https://user-images.githubusercontent.com/75678305/225570475-506ae7ce-93fa-4b3d-91d5-30a43f69049f.png)
 
+- ![image](https://user-images.githubusercontent.com/75678305/225576043-dcda4c49-fd53-4154-91d3-384244c0f715.png)
+
 
 
 - The excerpt shown above demonstrates how the Pylint tool aids in the analysis of problems (shown in red), warnings (shown in yellow), and suggestions pertaining to style, format, and missing files (in blue)
